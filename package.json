@@ -1,0 +1,22 @@
+{
+  "name": "terminalhangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnovakovic15/terminalHangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnovakovic15/terminalHangman/issues"
+  },
+  "homepage": "https://github.com/dnovakovic15/terminalHangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.0"
+  }
+}
